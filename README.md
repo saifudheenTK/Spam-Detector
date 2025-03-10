@@ -15,5 +15,5 @@ Follow these steps to set up the project locally.
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/spam-detector.git
+git clone https://github.com/saifudheenTK/spam-detector.git
 cd spam-detector
